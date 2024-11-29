@@ -1,0 +1,41 @@
+Primljeni HEX kod: E718FF00  //napred
+Primljeni HEX kod: 0
+Primljeni HEX kod: A55AFF00  // desno
+Primljeni HEX kod: 0
+Primljeni HEX kod: AD52FF00 //dole
+Primljeni HEX kod: 0
+Primljeni HEX kod: 0
+Primljeni HEX kod: F708FF00 //levo
+Primljeni HEX kod: 0
+Primljeni HEX kod: 0
+
+FF18E7 napred
+
+FF5AA5 desno
+
+FF4AB5 nazad
+
+FF10EF levo
+
+FFA25D 1
+
+FF629D 2
+
+FFE21D 3
+
+FFC23D 6
+
+
+Primljeni HEX kod: BA45FF00 //1
+Primljeni HEX kod: 0
+Primljeni HEX kod: B946FF00 //2
+Primljeni HEX kod: 0
+Primljeni HEX kod: B847FF00 //3
+Primljeni HEX kod: 0
+Primljeni HEX kod: 0
+Primljeni HEX kod: BB44FF00 //4
+Primljeni HEX kod: 0
+Primljeni HEX kod: BF40FF00 //5
+
+obim tocka 21 cm
+3.34 = r
